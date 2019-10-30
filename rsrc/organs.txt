@@ -1,0 +1,108 @@
+﻿skeleton
+Joint
+Ligament
+Muscular system
+Tendon
+Mouth
+Teeth
+Tongue
+Salivary gland
+Parotid gland
+Submandibular gland
+Sublingual gland
+Pharynx
+Oesophagus
+Stomach
+Small intestine
+Duodenum
+Jejunum
+Ileum
+Large intestine
+Liver
+Gallbladder
+Pancreas
+Nasal cavity
+Pharynx
+Larynx
+Trachea
+Bronchi
+Lung
+Diaphragm
+Kidney
+Ureter
+Bladder
+Urethra
+Ovary
+ovaries
+Fallopian tube
+Uterus
+Vagina
+Vulva
+Clitoris
+Placenta
+Testes
+Epididymis
+Vas deferens
+Seminal vesicle
+Prostate
+Bulbourethral glands
+Penis
+Scrotum
+Pituitary gland
+Pineal gland
+Thyroid gland
+Parathyroid gland
+Adrenal gland
+Pancreas
+The heart
+Arteries
+artery
+Vein
+Capillaries
+capillary
+Lymphatic vessel
+Lymph node
+Bone marrow
+Thymus
+Spleen
+brain
+Cerebrum
+Cerebral hemisphere
+Diencephalon
+The brainstem
+Midbrain
+Pons
+Medulla oblongata
+Cerebellum
+The spinal cord
+The ventricular system
+Choroid plexus
+Nerve
+Cranial nerve
+Spinal nerve
+Ganglia
+Enteric nervous system
+Eye
+Cornea
+Iris
+Ciliary body
+Lens
+Retina
+Ear
+Outer ear
+Earlobe
+Eardrum
+Middle ear
+Ossicle
+Inner ear
+Cochlea
+Vestibule of the ear
+Semicircular canal
+Olfactory epithelium
+Tongue
+Taste bud
+Mammary glands
+Laboratory-grown organ
+Organ transplantation
+Skin
+Subcutaneous tissue
