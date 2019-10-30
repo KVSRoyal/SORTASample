@@ -1,6 +1,7 @@
 # Setup
-1) We need the `nltk` module to run this implementation, so we need to `pip install nltk`.
-2) It takes a while to load the necessary files for SORTA to run.
+1) This is a Python 3 implementation
+2) We need the `nltk` module to run this implementation, so we need to `pip install nltk`.
+3) It takes a while to load the necessary files for SORTA to run.
 There should be some output in red in the console, and then "Ready for Matching"
 will be printed. At this point, our custom SORTA is ready to begin matching.
 
